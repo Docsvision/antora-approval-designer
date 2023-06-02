@@ -9,7 +9,7 @@
 [#server]
 == Установка серверной части модуля
 
-include::workerservice::partial$excerpts.adoc[tags=before-install]
+include::5.5.2@workerservice::partial$excerpts.adoc[tags=before-install]
 
 Серверная часть модуля _{ad}_ должна быть установлена на компьютер с сервером {dv}, а также на все компьютеры с серверной частью модуля _{wf}_ (с сервисом *{wfs}*), на которых обрабатываются БП данного сервера {dv}.
 
