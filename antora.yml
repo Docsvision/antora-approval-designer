@@ -1,5 +1,6 @@
 name: approval
-version: "5.5.3"
+version: "5.5.3_m4d"
+display_version: "5.5.3_МЧД"
 title: Конструктор согласований
 asciidoc:
   attributes:
