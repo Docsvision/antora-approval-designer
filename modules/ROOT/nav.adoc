@@ -1,7 +1,6 @@
 .xref:index.adoc[{ad}]
-* xref:index.adoc[Аннотация]
+* xref:index.adoc[]
 
-* Общие сведения о модуле
 ** xref:user-level.adoc[]
 ** xref:module-structure.adoc[]
 *** xref:card-types.adoc[]
